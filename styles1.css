@@ -1,0 +1,50 @@
+*{
+    background-color:cyan;
+}
+.aa{
+    color:blue;
+    font-size:2em;
+    display:inline-block;
+    background-color:yellow;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    position: relative;
+    left: 500px;
+}
+/* .aa h3{ */
+    /* position: relative;
+    left: 5000px;
+} */
+.bb{
+    color:lightgreen;
+    font-size:2em;
+    display:inline-block;
+    background-color:deeppink;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center; 
+    position:relative;
+    left: 200px;
+}
+.cc{
+    color:brown;
+    font-size:3em;
+    display:inline-block;
+    background-color:darkolivegreen;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    position:relative;
+    left: 400px; 
+}
+.a{border-style: dotted;
+color:aqua;
+font-size: 3em;
+display:flexbox}
+.b{border-style:double;
+    color:aqua;
+font-size: 3em;
+display:inline;
+}
+.c{border-style: ridge;
+    color:aqua;
+    font-size: 3em;
+    display:inline-flexbox}

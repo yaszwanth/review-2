@@ -1,0 +1,91 @@
+.photo{
+    width: 100%;
+    margin: auto;
+}
+.navbar{
+    margin:30px;
+    display:flex;
+}
+body{
+    margin: 1px;
+    padding: 10px;
+    box-sizing:border-box;
+    background-image: url(https://cdn.wallpapersafari.com/37/39/TpezIM.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;   
+
+}
+.home{
+    display:;
+    text-align: right;
+   
+}
+h1{
+    color: rgba(153, 216, 8, 0.774);
+    position:fixed;
+    font-size: larger;
+}
+
+.button{
+    text-decoration: solid;
+    font-weight:lighter;
+   background: none;
+   background-position: center;
+   text-align: right;
+   padding:0.5rem 0.8rem;
+   border: 1px solid rgb(0, 0, 0);
+   background-color: rgb(244, 220, 179);
+   box-shadow: 1px #000;
+}
+section{
+    padding: auto;
+}
+.login{
+   max-width: 5rem;
+   margin: 0px;
+   padding: 7rem;
+   border: 2px solid;
+   position: relative;
+   top: 200px;
+   left: 700px;
+   border-radius: 50px;
+   height: 150px;
+   color: black;
+   background-repeat: no-repeat;
+   background-color:#000000;
+}
+.log{
+    color:rgb(255, 255, 255);
+    position: absolute;
+    top: 20px;
+    left: 3.3cm;
+}
+.name{
+    color: #ffffff;
+    position:relative;
+ right: 80px;
+}
+.butt{
+    position: relative;
+    top: 60px;
+    left:90px;
+}
+.imag{
+    height: 80px;
+    width: 80px;
+}
+.home-text{
+    position:relative;
+    top:50px;
+    left:250px;
+    /* down:350px; */
+    max-width: 12rem;
+    height: 100px; 
+       margin: 70px;
+   padding: 6rem;
+   position: relative;
+   color: rgb(0, 0, 0);
+   background-repeat: no-repeat;
+   background-color:#a6c40093;
+}
+
